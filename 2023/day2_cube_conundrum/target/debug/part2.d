@@ -1,0 +1,1 @@
+/home/arnavg/advent-of-code/2023/day2_cube_conundrum/target/debug/part2: /home/arnavg/advent-of-code/2023/day2_cube_conundrum/src/bin/input1.txt /home/arnavg/advent-of-code/2023/day2_cube_conundrum/src/bin/part2.rs
