@@ -1,7 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "rust-analyzer.linkedProjects": [
-        "./day1_trebuchet/Cargo.toml"
-    ],
-    "rust-analyzer.showUnlinkedFileNotification": false
-}
