@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./aoc_2023_rust/day3b/Cargo.toml",
+        "./aoc_2023_rust/day3b/Cargo.toml"
+    ]
+}
