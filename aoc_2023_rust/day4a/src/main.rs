@@ -42,11 +42,11 @@ impl Card {
 
 fn set(input : &str) -> IResult<&str, HashSet<u32>>{
     // to make set of the left and right halves of the card
-    fold_many1(
+    fold_many1( // we are iterating multipel times over the data type y32 that ends with a space0 (min spaces after complettion == 0)
         terminated(complete::i32, space0),
-        HashSet::new,
+        HashSet::new, // we create a hashset to put the values into
         |mut acc: HashSet<_>, item| {
-            acc.insert(item as u32);
+            acc.insert(item as u32); // ervytime we come across such a value, we insert it into the hashset
             acc
         },
     ) (input)
