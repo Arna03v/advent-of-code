@@ -1,0 +1,6 @@
+.vscode
+.env
+aoc_2023_rust/Cargo.lock
+aoc_2023_rust/Cargo.toml
+aoc_2023_rust/src
+aoc_2023_rust/target
