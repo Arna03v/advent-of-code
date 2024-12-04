@@ -4,3 +4,7 @@ aoc_2023_rust/Cargo.lock
 aoc_2023_rust/Cargo.toml
 aoc_2023_rust/src
 aoc_2023_rust/target
+aoc_2023_rust/day3a/target
+aoc_2023_rust/day3b/target
+aoc_2023_rust/day4a/target
+aoc_2023_rust/day4b/target
